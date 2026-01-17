@@ -1,4 +1,4 @@
-<h1 align="center">Holaa... I'm Sithika Weerasinghe 👋</h1>
+<h1 align="center">From Imagination to Implementation.</h1>
 <h3 align="center">CS Student | Full-Stack Developer in Progress</h3>
 
 <p align="center">
